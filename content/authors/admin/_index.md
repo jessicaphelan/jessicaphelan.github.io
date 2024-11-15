@@ -6,8 +6,8 @@ title: Jessica Phelan
 name_pronunciation: Jessica Phelan
 
 # Full name (for SEO)
-first_name: Jessica
-last_name: Phelan
+# first_name: Jessica
+# last_name: Phelan
 
 # Status emoji
 status:
@@ -24,7 +24,7 @@ role: AI Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 
+  - name: MS in Computer Science, Vanderbilt University
     url: 
 
 # Social network links
@@ -49,7 +49,9 @@ profiles:
 interests:
   - Artificial Intelligence
   - Human Computer Interaction
-  - Digital Wellbeing
+  - Wellness & Therapeutic Technologies
+  - Human-AI Interactions
+  - Applications of Large Language Models in HCI
 
 education:
   # - area: PhD Artificial Intelligence
