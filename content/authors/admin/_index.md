@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/jessicaphelan
   - icon: brands/linkedin
-    url: https://www.linkedin.com/jessicaphelan
+    url: https://www.linkedin.com/in/jessicaphelan
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=fKdVeKYAAAAJ&hl=en
 #  - icon: academicons/orcid
