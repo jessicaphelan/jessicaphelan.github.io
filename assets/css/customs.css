@@ -2,3 +2,27 @@
 body, h1, h2, h3, h4, h5, h6, p, a, span, div {
     color: black;
   }
+
+  .light {
+    color: black;
+    background-color: white;
+  }
+  .light a {
+    color: black;
+  }
+  .light svg {
+    fill: black;
+  }
+
+  .portrait-title, .portrait-title h3, .portrait-title div {
+    color: black !important; /* Overrides other color settings */
+}
+
+.network-icon li a, .network-icon li a svg {
+    color: black !important; /* Make sure icons and text in the list are also black */
+}
+
+/* This rule ensures that links inside the profile area are also black */
+.portrait-title a {
+    color: black !important;
+}
