@@ -49,9 +49,8 @@ profiles:
 interests:
   - Artificial Intelligence
   - Human Computer Interaction
-  - Wellness & Therapeutic Technologies
-  - Human-AI Interactions
   - Applications of Large Language Models in HCI
+  - Wellness & Therapeutic Technologies
 
 education:
   # - area: PhD Artificial Intelligence
