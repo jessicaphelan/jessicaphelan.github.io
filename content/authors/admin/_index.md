@@ -67,29 +67,29 @@ education:
     institution: Vanderbilt University
     date_start: 2021
     date_end: 2023
-    summary: |
+    # summary: |
 
-      Courses included:
-       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Information Technology
+    #   Courses included:
+    #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BS Information Technology
     institution: University of South Florida
  #   date_start: 2016-01-01
  #   date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+    # summary: |
+    #   GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Assistant
+    company_name: Vanderbilt University
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-08-20
     date_end: ''
     summary: |2-
       Responsibilities include:
