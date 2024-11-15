@@ -47,10 +47,11 @@ profiles:
 #    url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Human Computer Interaction
-  - Applications of Large Language Models in HCI
-  - Wellness & Therapeutic Technologies
+  - Human-Computer Interaction
+  - Artificial Intelligence & Machine Learning
+  - Mental Health Technologies
+  - AI Ethics & Transparency
+  - Personality-Adaptive Systems
 
 education:
   # - area: PhD Artificial Intelligence
@@ -183,4 +184,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a researcher at the intersection of Human-Computer Interaction and Artificial Intelligence, focused on developing AI systems that enhance human potential and emotional wellbeing. My work spans from building AI-driven therapeutic tools to investigating the psychological aspects of human-AI interaction. At Vanderbilt University, I've led research on AI-powered cybersecurity training and personality-adaptive systems, and through internships at NASA Ames Research Center and Marshall Space Flight Center, I worked on NLP and computer vision applications. I'm exploring how AI can support mental health through innovative approaches like Internal Family Systems therapy and personalized self-reflection technologies. My research combines technical expertise in machine learning with insights from psychology and neuroscience to create technologies that foster genuine self-awareness and growth.
+
