@@ -3,7 +3,7 @@
 title: Jessica Phelan
 
 # Name pronunciation (optional)
-name_pronunciation: Jessica Phelan
+name_pronunciation: 
 
 # Full name (for SEO)
 # first_name: Jessica
