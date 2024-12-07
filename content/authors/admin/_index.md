@@ -49,7 +49,7 @@ profiles:
 interests:
   - Human-Computer Interaction
   - Artificial Intelligence & Machine Learning
-  - Mental Health Technologies
+  - Mental Health Appliations
   - AI Ethics & Transparency
   - Personality-Adaptive Systems
 
@@ -143,12 +143,9 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Norwegian
+    percent: 30
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
